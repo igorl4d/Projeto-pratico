@@ -34,7 +34,7 @@ Seguindo esses passos, agora basta inicializar a aplicação Flask:
 python3 app.py
 ```
 
-E em seguida o bot:
+E em seguida, em outro terminal, o bot:
 
 ```bash
 python3 main.py
