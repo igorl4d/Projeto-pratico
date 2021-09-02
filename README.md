@@ -2,12 +2,6 @@
 
 O projeto se trata de um bot do Telegram integrado em uma API desenvolvida com a mico-framework Flask.
 
-# Tecnologias usadas:
-
-- Python
-- Flask
-- Sqlite3
-
 # Usage
 
 Primeiro, após baixar os arquivos, é recomendavel utilizar um ambiente virtual, o qual pode ser criado da seguinte maneira no seu terminal:
