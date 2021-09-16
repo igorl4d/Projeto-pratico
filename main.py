@@ -4,7 +4,7 @@ import respostas as R
 import requests
 import json
 
-API_TL = "1990649720:AAGXl4_vnbnhzN0zrKry7yG4f1VNIZnci2k"
+API_TL = "1996496100:AAG6NcZMnIw2CGwwHDoLqItRhCtUj04Q6l8"
 API_APP = "http://127.0.0.1:5000"
 
 # Definição de comandos
