@@ -1,4 +1,4 @@
-# Projeto_wedev
+# Projeto
 
 O projeto se trata de um bot do Telegram integrado em uma API desenvolvida com a mico-framework Flask.
 
