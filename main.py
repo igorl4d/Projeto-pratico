@@ -14,7 +14,7 @@ def comando_start(update, context):
 
     usuario = update.message.from_user
     update.message.reply_text(
-        f"Bem vindo, {usuario.first_name}, ao Bot da Wedev! Se tiver alguma dúvida , você pode digitar /ajuda. Caso queira se cadastrar no nosso sistema, basta digitar /cadastro")
+        f"Bem vindo, {usuario.first_name}, ao Bot de Teste! Se tiver alguma dúvida , você pode digitar /ajuda. Caso queira se cadastrar no nosso sistema, basta digitar /cadastro")
 
 
 def comando_help(update, context):
