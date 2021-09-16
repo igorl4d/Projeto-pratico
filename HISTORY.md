@@ -1,4 +1,4 @@
-# Projeto_wedev
+# Projeto
 
 Projeto desenvolvido para a vaga de desenvolvedor Python Junior. O projeto se trata de um bot do Telegram integrado em uma API desenvolvida com a mico-framework Flask. A API é encarragada de de inserir os dados dos usuários do bot em um banco de dados, assim como retornar informações para esses.
 
