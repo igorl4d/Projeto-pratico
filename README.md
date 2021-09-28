@@ -40,4 +40,4 @@ E em seguida, em outro terminal, o bot:
 python3 main.py
 ```
 
-Agora o Bot está rodando, para usar basta procurar @Wedev_teste_bot no telegram.
+Agora o Bot está rodando, para usar basta procurar @testepraticobot no telegram.
